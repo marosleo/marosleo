@@ -7,7 +7,7 @@
 <div style="display: inline_block" align="center"><br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,git,react,redux,php,ts,css,html,php,nextjs&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,git,react,redux,php,ts,css,html,java,nextjs&perline=5" />
   </a>
 </p>
 
